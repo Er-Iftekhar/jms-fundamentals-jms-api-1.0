@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/jms-fundamentals.iml" filepath="$PROJECT_DIR$/.idea/jms-fundamentals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/jms-fundamentals-jms-1.0-api.iml" filepath="$PROJECT_DIR$/.idea/jms-fundamentals-jms-1.0-api.iml" />
     </modules>
   </component>
 </project>
